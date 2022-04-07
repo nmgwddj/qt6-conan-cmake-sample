@@ -6,8 +6,6 @@ repos:
     -   id: check-added-large-files
     -   id: check-merge-conflict
     -   id: end-of-file-fixer
-    -   id: no-commit-to-branch
-        args: ['--pattern', '^(?!((bugfix|feature|release|hotfix|support)\/[A-Za-z0-9\_\-\.]+)$|develop).*']
 
 -   repo: https://github.com/pocc/pre-commit-hooks
     rev: v1.3.4
