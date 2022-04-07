@@ -1,0 +1,11 @@
+BasedOnStyle: Chromium
+ColumnLimit: 120
+BreakBeforeBraces: Attach
+AlignOperands: true
+IndentWidth: 4
+BreakConstructorInitializers: BeforeComma
+ConstructorInitializerAllOnOneLineOrOnePerLine: false
+ConstructorInitializerIndentWidth: 4
+AccessModifierOffset: -4
+AllowShortLambdasOnASingleLine: Empty
+AlignAfterOpenBracket: DontAlign
